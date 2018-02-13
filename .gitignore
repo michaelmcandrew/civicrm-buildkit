@@ -67,3 +67,11 @@ node_modules/
 vagrant/*/.vagrant
 vendor/
 web/
+.amp/
+.bash_logout
+.bashrc
+.composer/
+.config/
+.node-gyp/
+.npm/
+.profile
