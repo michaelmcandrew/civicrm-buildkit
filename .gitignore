@@ -69,9 +69,11 @@ vendor/
 web/
 .amp/
 .bash_logout
+.bash_history
 .bashrc
 .composer/
 .config/
+.gitconfig
 .node-gyp/
 .npm/
 .profile
